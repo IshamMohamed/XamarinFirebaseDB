@@ -1,11 +1,12 @@
 ﻿using Android.App;
 using Android.Widget;
 using Android.OS;
+using Android.Support.V7.App;
 
 namespace FirebaseDBApp
 {
     [Activity(Label = "FirebaseDBApp", MainLauncher = true)]
-    public class MainActivity : Activity
+    public class MainActivity : AppCompatActivity
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {

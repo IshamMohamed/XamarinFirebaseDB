@@ -1091,44 +1091,44 @@ namespace FirebaseDBApp
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f090046
-			public const int abc_background_cache_hint_selector_material_dark = 2131296326;
-			
-			// aapt resource value: 0x7f090047
-			public const int abc_background_cache_hint_selector_material_light = 2131296327;
-			
-			// aapt resource value: 0x7f090048
-			public const int abc_btn_colored_borderless_text_material = 2131296328;
-			
-			// aapt resource value: 0x7f090049
-			public const int abc_btn_colored_text_material = 2131296329;
-			
 			// aapt resource value: 0x7f09004a
-			public const int abc_color_highlight_material = 2131296330;
+			public const int abc_background_cache_hint_selector_material_dark = 2131296330;
 			
 			// aapt resource value: 0x7f09004b
-			public const int abc_hint_foreground_material_dark = 2131296331;
+			public const int abc_background_cache_hint_selector_material_light = 2131296331;
 			
 			// aapt resource value: 0x7f09004c
-			public const int abc_hint_foreground_material_light = 2131296332;
+			public const int abc_btn_colored_borderless_text_material = 2131296332;
+			
+			// aapt resource value: 0x7f09004d
+			public const int abc_btn_colored_text_material = 2131296333;
+			
+			// aapt resource value: 0x7f09004e
+			public const int abc_color_highlight_material = 2131296334;
+			
+			// aapt resource value: 0x7f09004f
+			public const int abc_hint_foreground_material_dark = 2131296335;
+			
+			// aapt resource value: 0x7f090050
+			public const int abc_hint_foreground_material_light = 2131296336;
 			
 			// aapt resource value: 0x7f09000c
 			public const int abc_input_method_navigation_guard = 2131296268;
 			
-			// aapt resource value: 0x7f09004d
-			public const int abc_primary_text_disable_only_material_dark = 2131296333;
-			
-			// aapt resource value: 0x7f09004e
-			public const int abc_primary_text_disable_only_material_light = 2131296334;
-			
-			// aapt resource value: 0x7f09004f
-			public const int abc_primary_text_material_dark = 2131296335;
-			
-			// aapt resource value: 0x7f090050
-			public const int abc_primary_text_material_light = 2131296336;
-			
 			// aapt resource value: 0x7f090051
-			public const int abc_search_url_text = 2131296337;
+			public const int abc_primary_text_disable_only_material_dark = 2131296337;
+			
+			// aapt resource value: 0x7f090052
+			public const int abc_primary_text_disable_only_material_light = 2131296338;
+			
+			// aapt resource value: 0x7f090053
+			public const int abc_primary_text_material_dark = 2131296339;
+			
+			// aapt resource value: 0x7f090054
+			public const int abc_primary_text_material_light = 2131296340;
+			
+			// aapt resource value: 0x7f090055
+			public const int abc_search_url_text = 2131296341;
 			
 			// aapt resource value: 0x7f09000d
 			public const int abc_search_url_text_normal = 2131296269;
@@ -1139,32 +1139,32 @@ namespace FirebaseDBApp
 			// aapt resource value: 0x7f09000f
 			public const int abc_search_url_text_selected = 2131296271;
 			
-			// aapt resource value: 0x7f090052
-			public const int abc_secondary_text_material_dark = 2131296338;
-			
-			// aapt resource value: 0x7f090053
-			public const int abc_secondary_text_material_light = 2131296339;
-			
-			// aapt resource value: 0x7f090054
-			public const int abc_tint_btn_checkable = 2131296340;
-			
-			// aapt resource value: 0x7f090055
-			public const int abc_tint_default = 2131296341;
-			
 			// aapt resource value: 0x7f090056
-			public const int abc_tint_edittext = 2131296342;
+			public const int abc_secondary_text_material_dark = 2131296342;
 			
 			// aapt resource value: 0x7f090057
-			public const int abc_tint_seek_thumb = 2131296343;
+			public const int abc_secondary_text_material_light = 2131296343;
 			
 			// aapt resource value: 0x7f090058
-			public const int abc_tint_spinner = 2131296344;
+			public const int abc_tint_btn_checkable = 2131296344;
 			
 			// aapt resource value: 0x7f090059
-			public const int abc_tint_switch_thumb = 2131296345;
+			public const int abc_tint_default = 2131296345;
 			
 			// aapt resource value: 0x7f09005a
-			public const int abc_tint_switch_track = 2131296346;
+			public const int abc_tint_edittext = 2131296346;
+			
+			// aapt resource value: 0x7f09005b
+			public const int abc_tint_seek_thumb = 2131296347;
+			
+			// aapt resource value: 0x7f09005c
+			public const int abc_tint_spinner = 2131296348;
+			
+			// aapt resource value: 0x7f09005d
+			public const int abc_tint_switch_thumb = 2131296349;
+			
+			// aapt resource value: 0x7f09005e
+			public const int abc_tint_switch_track = 2131296350;
 			
 			// aapt resource value: 0x7f090010
 			public const int accent_material_dark = 2131296272;
@@ -1208,11 +1208,23 @@ namespace FirebaseDBApp
 			// aapt resource value: 0x7f09001d
 			public const int button_material_light = 2131296285;
 			
+			// aapt resource value: 0x7f090049
+			public const int circularColor = 2131296329;
+			
+			// aapt resource value: 0x7f090048
+			public const int colorAccent = 2131296328;
+			
+			// aapt resource value: 0x7f090046
+			public const int colorPrimary = 2131296326;
+			
+			// aapt resource value: 0x7f090047
+			public const int colorPrimaryDark = 2131296327;
+			
 			// aapt resource value: 0x7f090000
 			public const int design_bottom_navigation_shadow_color = 2131296256;
 			
-			// aapt resource value: 0x7f09005b
-			public const int design_error = 2131296347;
+			// aapt resource value: 0x7f09005f
+			public const int design_error = 2131296351;
 			
 			// aapt resource value: 0x7f090001
 			public const int design_fab_shadow_end_color = 2131296257;
@@ -1244,8 +1256,8 @@ namespace FirebaseDBApp
 			// aapt resource value: 0x7f09000a
 			public const int design_textinput_error_color_light = 2131296266;
 			
-			// aapt resource value: 0x7f09005c
-			public const int design_tint_password_toggle = 2131296348;
+			// aapt resource value: 0x7f090060
+			public const int design_tint_password_toggle = 2131296352;
 			
 			// aapt resource value: 0x7f09001e
 			public const int dim_foreground_disabled_material_dark = 2131296286;
@@ -1364,11 +1376,11 @@ namespace FirebaseDBApp
 			// aapt resource value: 0x7f090043
 			public const int switch_thumb_disabled_material_light = 2131296323;
 			
-			// aapt resource value: 0x7f09005d
-			public const int switch_thumb_material_dark = 2131296349;
+			// aapt resource value: 0x7f090061
+			public const int switch_thumb_material_dark = 2131296353;
 			
-			// aapt resource value: 0x7f09005e
-			public const int switch_thumb_material_light = 2131296350;
+			// aapt resource value: 0x7f090062
+			public const int switch_thumb_material_light = 2131296354;
 			
 			// aapt resource value: 0x7f090044
 			public const int switch_thumb_normal_material_dark = 2131296324;
@@ -3021,6 +3033,9 @@ namespace FirebaseDBApp
 			// aapt resource value: 0x7f060002
 			public const int Animation_Design_BottomSheetDialog = 2131099650;
 			
+			// aapt resource value: 0x7f06017a
+			public const int AppTheme = 2131100026;
+			
 			// aapt resource value: 0x7f0600be
 			public const int Base_AlertDialog_AppCompat = 2131099838;
 			
@@ -3482,6 +3497,9 @@ namespace FirebaseDBApp
 			
 			// aapt resource value: 0x7f060004
 			public const int Base_Widget_Design_TabLayout = 2131099652;
+			
+			// aapt resource value: 0x7f06017b
+			public const int CircularProgress = 2131100027;
 			
 			// aapt resource value: 0x7f060039
 			public const int Platform_AppCompat = 2131099705;
